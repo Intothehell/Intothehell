@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Kavindu Shehan
 
-I'm an undergraduate **Data Science student** at **SLTC Research University, Sri Lanka**. I love exploring **Python**, **Data Visualization**, and turning raw data into actionable insights.
+I'm an undergraduate **Data Science student** at **SLTC Research University, Sri Lanka**. I love exploring **Python**, **Data Visualization**,**Machine Learning, AI Engineering, and Natural Language Processing (NLP)** and turning raw data into actionable insights.
 
 ---
 
